@@ -1,2 +1,4 @@
 # notes
-Notes for common reading
+
+# [重构说明]
+refactor: https://migration.ink/
